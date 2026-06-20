@@ -21,6 +21,34 @@ Traditional cloud storage systems depend on centralized infrastructures that int
 SecureShare addresses these challenges through a decentralized architecture that combines secure storage, cryptographic access control, blockchain-based auditability, and intelligent threat detection.
 
 ---
+## 📑 Table of Contents
+
+* [Project Overview](#project-overview)
+* [Key Features](#key-features)
+
+  * [Secure Authentication & Authorization](#secure-authentication--authorization)
+  * [Decentralized Storage](#decentralized-storage)
+  * [Blockchain Integration](#blockchain-integration)
+  * [Secure Communication](#secure-communication)
+  * [Privacy Preservation](#privacy-preservation)
+  * [Threat Detection](#threat-detection)
+  * [Administrative Controls](#administrative-controls)
+* [Security Mechanisms](#security-mechanisms)
+
+  * [Cryptographic Protection](#cryptographic-protection)
+  * [Access Control](#access-control)
+  * [Auditability](#auditability)
+  * [Account Protection](#account-protection)
+* [Technology Stack](#technology-stack)
+* [Research Contributions](#research-contributions)
+* [Screenshots](#-screenshots)
+* [Demo Video](#demo-video)
+* [Project Outcomes](#project-outcomes)
+* [Future Enhancements](#future-enhancements)
+* [Academic Publication](#academic-publication)
+* [Project Team](#project-team)
+* [License](#license)
+---
 
 ## Key Features
 
