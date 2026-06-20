@@ -160,60 +160,18 @@ to create a resilient and scalable file-sharing ecosystem.
 Below are selected screenshots demonstrating the complete workflow and security features of **SecureShare**.
 
 <div align="center">
-    <a href="screenshots/LoginPage.png">
-        <img src="screenshots/LoginPage.png" alt="Login Page" width="20%" />
+    <a href="Docs/LoginPage.png">
+        <img src="Docs/LoginPage.png" alt="Login Page" width="20%" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 
-```
-<a href="screenshots/AdminPanel.png">
-    <img src="screenshots/AdminPanel.png" alt="Admin Panel" width="20%" />
+<a href="Docs/AdminPanel.png">
+    <img src="Docs/AdminPanel.png" alt="Admin Panel" width="20%" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="screenshots/CreateUserPage.png">
-    <img src="screenshots/CreateUserPage.png" alt="Create User Page" width="20%" />
-</a>
-```
-
-</div>
-
-<br>
-
-<div align="center">
-    <a href="screenshots/UserData.png">
-        <img src="screenshots/UserData.png" alt="View All Users Page" width="20%" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<a href="screenshots/AuditDashboard.png">
-    <img src="screenshots/AuditDashboard.png" alt="Audit Dashboard" width="20%" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="screenshots/UserActivityDashboard.png">
-    <img src="screenshots/UserActivityDashboard.png" alt="User Activity Dashboard" width="20%" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-    <a href="screenshots/UserHomeScreen.png">
-        <img src="screenshots/UserHomeScreen.png" alt="User Home Screen" width="20%" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<a href="screenshots/CreateChat.png">
-    <img src="screenshots/CreateChat.png" alt="Create Chat Page" width="20%" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="screenshots/ChatScreen1.png">
-    <img src="screenshots/ChatScreen1.png" alt="Chat Screen 1" width="20%" />
+<a href="Docs/CreateUserPage.png">
+    <img src="Docs/CreateUserPage.png" alt="Create User Page" width="20%" />
 </a>
 
 
@@ -222,19 +180,39 @@ Below are selected screenshots demonstrating the complete workflow and security 
 <br>
 
 <div align="center">
-    <a href="screenshots/ChatScreen2.png">
-        <img src="screenshots/ChatScreen2.png" alt="Chat Screen 2" width="20%" />
+    <a href="Docs/UserData.png">
+        <img src="Docs/UserData.png" alt="View All Users Page" width="20%" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<a href="screenshots/UploadScreen.png">
-    <img src="screenshots/UploadScreen.png" alt="Upload Files" width="20%" />
+<a href="Docs/AuditDashboard.png">
+    <img src="Docs/AuditDashboard.png" alt="Audit Dashboard" width="20%" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="screenshots/FileSharingSetting.png">
-    <img src="screenshots/FileSharingSetting.png" alt="Upload File Settings" width="20%" />
+<a href="Docs/UserActivityDashboard.png">
+    <img src="Docs/UserActivityDashboard.png" alt="User Activity Dashboard" width="20%" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+    <a href="Docs/UserHomeScreen.png">
+        <img src="Docs/UserHomeScreen.png" alt="User Home Screen" width="20%" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<a href="Docs/CreateChat.png">
+    <img src="Docs/CreateChat.png" alt="Create Chat Page" width="20%" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="Docs/ChatScreen1.png">
+    <img src="Docs/ChatScreen1.png" alt="Chat Screen 1" width="20%" />
 </a>
 
 
@@ -243,19 +221,19 @@ Below are selected screenshots demonstrating the complete workflow and security 
 <br>
 
 <div align="center">
-    <a href="screenshots/ImageFileViewer.png">
-        <img src="screenshots/ImageFileViewer.png" alt="Secure Viewer 1" width="20%" />
+    <a href="Docs/ChatScreen2.png">
+        <img src="Docs/ChatScreen2.png" alt="Chat Screen 2" width="20%" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<a href="screenshots/TextFileViewer.png">
-    <img src="screenshots/TextFileViewer.png" alt="Secure Viewer 2" width="20%" />
+<a href="Docs/UploadScreen.png">
+    <img src="Docs/UploadScreen.png" alt="Upload Files" width="20%" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="screenshots/FileAccessDenied.png">
-    <img src="screenshots/FileAccessDenied.png" alt="Viewer Access Denied" width="20%" />
+<a href="Docs/FileSharingSetting.png">
+    <img src="Docs/FileSharingSetting.png" alt="Upload File Settings" width="20%" />
 </a>
 
 
@@ -264,14 +242,35 @@ Below are selected screenshots demonstrating the complete workflow and security 
 <br>
 
 <div align="center">
-    <a href="screenshots/ProfilePage.png">
-        <img src="screenshots/ProfilePage.png" alt="Profile Page" width="20%" />
+    <a href="Docs/ImageFileViewer.png">
+        <img src="Docs/ImageFileViewer.png" alt="Secure Viewer 1" width="20%" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<a href="screenshots/ChangePassword.png">
-    <img src="screenshots/ChangePassword.png" alt="Change Password Page" width="20%" />
+<a href="Docs/TextFileViewer.png">
+    <img src="Docs/TextFileViewer.png" alt="Secure Viewer 2" width="20%" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="Docs/FileAccessDenied.png">
+    <img src="Docs/FileAccessDenied.png" alt="Viewer Access Denied" width="20%" />
+</a>
+
+
+</div>
+
+<br>
+
+<div align="center">
+    <a href="Docs/ProfilePage.png">
+        <img src="Docs/ProfilePage.png" alt="Profile Page" width="20%" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<a href="Docs/ChangePassword.png">
+    <img src="Docs/ChangePassword.png" alt="Change Password Page" width="20%" />
 </a>
 
 
@@ -289,7 +288,7 @@ Below are selected screenshots demonstrating the complete workflow and security 
 
 Watch the working demonstration of SecureShare:
 
-[▶ Watch Demo Video](demo/SecureShare_Demo.mp4)
+[▶ Watch Demo Video](https://youtu.be/XsRCdOI1mLQ)
 
 ---
 
